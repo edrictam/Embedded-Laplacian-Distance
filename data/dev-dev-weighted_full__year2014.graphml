@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d0"/>
+<graph edgedefault="undirected"><node id="john kellerman"/>
+<node id="loren segal"/>
+<node id="christopher ferris"/>
+<node id="peter moon"/>
+<node id="bernhard k weisshuhn"/>
+<node id="rveitch"/>
+<node id="eron hennessey"/>
+<node id="joao stein"/>
+<node id="pedro teixeira"/>
+<node id="victoriao"/>
+<node id="kyleknap"/>
+<node id="irfan durmus"/>
+<node id="lee reamsnyder"/>
+<node id="mick thompson"/>
+<node id="colm hally"/>
+<node id="pasindu de silva"/>
+<node id="nishigori"/>
+<node id="eric mill"/>
+<node id="aditya manohar"/>
+<node id="roach"/>
+<node id="daniel g taylor"/>
+<node id="jk"/>
+<node id="sefror"/>
+<node id="arvind srinivasan"/>
+<edge source="john kellerman" target="victoriao">
+  <data key="d0">12</data>
+</edge>
+<edge source="john kellerman" target="jk">
+  <data key="d0">7</data>
+</edge>
+<edge source="john kellerman" target="christopher ferris">
+  <data key="d0">12</data>
+</edge>
+<edge source="john kellerman" target="lee reamsnyder">
+  <data key="d0">11</data>
+</edge>
+<edge source="john kellerman" target="sefror">
+  <data key="d0">18</data>
+</edge>
+<edge source="john kellerman" target="arvind srinivasan">
+  <data key="d0">19</data>
+</edge>
+<edge source="loren segal" target="eron hennessey">
+  <data key="d0">14</data>
+</edge>
+<edge source="loren segal" target="pedro teixeira">
+  <data key="d0">47</data>
+</edge>
+<edge source="loren segal" target="joao stein">
+  <data key="d0">7</data>
+</edge>
+<edge source="loren segal" target="eric mill">
+  <data key="d0">57</data>
+</edge>
+<edge source="loren segal" target="peter moon">
+  <data key="d0">6</data>
+</edge>
+<edge source="loren segal" target="aditya manohar">
+  <data key="d0">902</data>
+</edge>
+<edge source="loren segal" target="irfan durmus">
+  <data key="d0">4</data>
+</edge>
+<edge source="loren segal" target="roach">
+  <data key="d0">4</data>
+</edge>
+<edge source="loren segal" target="mick thompson">
+  <data key="d0">7</data>
+</edge>
+<edge source="loren segal" target="bernhard k weisshuhn">
+  <data key="d0">41</data>
+</edge>
+<edge source="loren segal" target="colm hally">
+  <data key="d0">7</data>
+</edge>
+<edge source="christopher ferris" target="victoriao">
+  <data key="d0">4</data>
+</edge>
+<edge source="christopher ferris" target="lee reamsnyder">
+  <data key="d0">3</data>
+</edge>
+<edge source="christopher ferris" target="sefror">
+  <data key="d0">10</data>
+</edge>
+<edge source="christopher ferris" target="arvind srinivasan">
+  <data key="d0">8</data>
+</edge>
+<edge source="bernhard k weisshuhn" target="aditya manohar">
+  <data key="d0">6</data>
+</edge>
+<edge source="eron hennessey" target="aditya manohar">
+  <data key="d0">9</data>
+</edge>
+<edge source="victoriao" target="lee reamsnyder">
+  <data key="d0">3</data>
+</edge>
+<edge source="victoriao" target="sefror">
+  <data key="d0">10</data>
+</edge>
+<edge source="victoriao" target="arvind srinivasan">
+  <data key="d0">8</data>
+</edge>
+<edge source="kyleknap" target="daniel g taylor">
+  <data key="d0">129</data>
+</edge>
+<edge source="kyleknap" target="nishigori">
+  <data key="d0">3</data>
+</edge>
+<edge source="lee reamsnyder" target="sefror">
+  <data key="d0">9</data>
+</edge>
+<edge source="lee reamsnyder" target="arvind srinivasan">
+  <data key="d0">7</data>
+</edge>
+<edge source="nishigori" target="daniel g taylor">
+  <data key="d0">41</data>
+</edge>
+<edge source="eric mill" target="aditya manohar">
+  <data key="d0">14</data>
+</edge>
+<edge source="jk" target="arvind srinivasan">
+  <data key="d0">6</data>
+</edge>
+<edge source="sefror" target="arvind srinivasan">
+  <data key="d0">19</data>
+</edge>
+</graph></graphml>
