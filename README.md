@@ -8,8 +8,11 @@ This directory is organized as follows:
 
 4.
 ELD Experiment (Computational Time).ipynb
+
 ELD Experiment (Real Data - Temporal Collaboration Network and Connectomes).ipynb
+
 ELD Experiment (Simulated, Unweighted Graphs Comparison).ipynb
+
 ELD Experiment (Simulated, Weighted Graphs Comparison).ipynb
 
 The above four notebooks runs the experiments that reproduces results/figures in the experiment section of the paper
